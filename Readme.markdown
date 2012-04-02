@@ -1,5 +1,5 @@
 # SSBenchmarker
 
-Benchmark Objective-C code the easy way.
+Benchmark Objective-C code the easy way. See [Blending Benchmarks](https://github.com/samsoffes/blending-benchmarks) for an example.
 
-Examples and such coming soonish.
+Heavily inspired by [Statistics](https://github.com/stig/Statistics). Thanks [Stig](https://github.com/stig)!
